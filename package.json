@@ -1,0 +1,14 @@
+{
+  "name": "number",
+  "version": "1.0.0",
+  "description": "\"Игра - угадай число\"",
+  "main": "num.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Igor Koliberskiy",
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
